@@ -2,215 +2,345 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19847a6e-361d-4387-9b83-57f55d6e3c56" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/vendor/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/npm.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/app/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/CRASH AND BURN - Bumper Car Flame Effect Rig.pdf" afterPath="$PROJECT_DIR$/app/_assets/CRASH AND BURN - Bumper Car Flame Effect Rig.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Camp.JPG" afterPath="$PROJECT_DIR$/app/_assets/Camp.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/FLAME EFFECT.PDF" afterPath="$PROJECT_DIR$/app/_assets/FLAME EFFECT.PDF" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/261.626 (mp3cut.net).mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/261.626 (mp3cut.net).mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/293.665 (mp3cut.net).mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/293.665 (mp3cut.net).mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/329.628 (mp3cut.net).mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/329.628 (mp3cut.net).mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/349.228 (mp3cut.net).mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/349.228 (mp3cut.net).mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/391.995 (mp3cut.net).mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/391.995 (mp3cut.net).mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/440 (mp3cut.net).mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/440 (mp3cut.net).mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/493.883 (mp3cut.net).mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/493.883 (mp3cut.net).mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/523.251 (mp3cut.net).mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/523.251 (mp3cut.net).mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Classic1_C4.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic1_C4.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Classic2_D4.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic2_D4.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Classic3_E4.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic3_E4.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Classic4_F4.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic4_F4.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Classic5_G4.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic5_G4.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Classic6_A4.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic6_A4.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Classic7_B4.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic7_B4.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Classic8_C5.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic8_C5.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Classic99_E5.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic99_E5.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Classic9_D5.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic9_D5.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous - The holy see.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous - The holy see.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous1.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous1.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous1.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous1.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous10.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous10.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous10.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous10.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous2.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous2.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous2.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous2.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous3.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous3.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous3.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous3.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous4.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous4.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous4.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous4.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous5.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous5.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous5.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous5.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous6.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous6.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous6.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous6.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous7.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous7.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous7.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous7.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous725.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous725.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous8.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous8.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous8.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous8.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous9.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous9.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Sounds/Populous9.wav" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous9.wav" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/TRACK000.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK000.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/TRACK001.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK001.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/TRACK002.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK002.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/TRACK003.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK003.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/TRACK004.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK004.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/TRACK005.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK005.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/TRACK006.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK006.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/TRACK007.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK007.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/TRACK008.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK008.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/TRACK009.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK009.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/440L.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/440L.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/440R.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/440R.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/README.txt" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/README.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/TRACK000.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK000.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/TRACK001.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK001.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/TRACK002.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK002.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/TRACK003.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK003.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/TRACK004.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK004.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/TRACK005.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK005.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/TRACK006.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK006.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/TRACK007.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK007.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/TRACK008.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK008.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/TRACK009.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK009.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/TRACK010.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK010.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/TRACK011.mp3" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK011.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/admxleft.053" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/admxleft.053" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/admxmono.053" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/admxmono.053" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/admxrght.053" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/admxrght.053" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/admxster.053" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/admxster.053" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/admxswap.053" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/admxswap.053" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/eq5.053" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/eq5.053" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/patches.053" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/patches.053" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/patchesf.053" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/patchesf.053" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/pcm.053" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/pcm.053" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/rtmidi.053" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/rtmidi.053" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Francis the Fantastic/Touchboard Backups/vs_plg_to_bin.bat" afterPath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/vs_plg_to_bin.bat" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Logos/Charcade Logo.ai" afterPath="$PROJECT_DIR$/app/_assets/Logos/Charcade Logo.ai" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Logos/Charcade T-shirt.ai" afterPath="$PROJECT_DIR$/app/_assets/Logos/Charcade T-shirt.ai" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Logos/RB Logo Stacked.ai" afterPath="$PROJECT_DIR$/app/_assets/Logos/RB Logo Stacked.ai" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Logos/RB Logo Stacked.png" afterPath="$PROJECT_DIR$/app/_assets/Logos/RB Logo Stacked.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Logos/S3FA Logo.ai" afterPath="$PROJECT_DIR$/app/_assets/Logos/S3FA Logo.ai" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Logos/_DS_Store" afterPath="$PROJECT_DIR$/app/_assets/Logos/_DS_Store" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Logos/logo_charcade.png" afterPath="$PROJECT_DIR$/app/_assets/Logos/logo_charcade.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Logos/ssf_logo_160x140.png" afterPath="$PROJECT_DIR$/app/_assets/Logos/ssf_logo_160x140.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Parts List.numbers" afterPath="$PROJECT_DIR$/app/_assets/Parts List.numbers" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Parts List.xlsx" afterPath="$PROJECT_DIR$/app/_assets/Parts List.xlsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/REGULATOR.PDF" afterPath="$PROJECT_DIR$/app/_assets/REGULATOR.PDF" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/S3FA Profile Pics/bryan.jpg" afterPath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/bryan.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/S3FA Profile Pics/mike and trish.jpg" afterPath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/mike and trish.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/S3FA Profile Pics/profile_callum.jpg" afterPath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_callum.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/S3FA Profile Pics/profile_carrie.jpg" afterPath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_carrie.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/S3FA Profile Pics/profile_kate.jpg" afterPath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_kate.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/S3FA Profile Pics/profile_kyle.png" afterPath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_kyle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/S3FA Profile Pics/profile_marc.jpg" afterPath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_marc.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/S3FA Profile Pics/profile_mike.jpg" afterPath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_mike.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/S3FA Profile Pics/profile_saravee.jpg" afterPath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_saravee.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/S3FA Profile Pics/profile_seth.jpg" afterPath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_seth.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/S3FA Profile Pics/profile_trevyn.jpg" afterPath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_trevyn.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/S3FA Profile Pics/sarah.jpeg" afterPath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/sarah.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/Updated Parts List.xlsx" afterPath="$PROJECT_DIR$/app/_assets/Updated Parts List.xlsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_Carcade/Charcade Smokey High Res.jpg" afterPath="$PROJECT_DIR$/app/_assets/_Carcade/Charcade Smokey High Res.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_Carcade/Charcade by Matt Brooks IMG_6759.jpg" afterPath="$PROJECT_DIR$/app/_assets/_Carcade/Charcade by Matt Brooks IMG_6759.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_Carcade/NeilGirling_PICT158029.jpg" afterPath="$PROJECT_DIR$/app/_assets/_Carcade/NeilGirling_PICT158029.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_Riskee/IMGP2808.JPG" afterPath="$PROJECT_DIR$/app/_assets/_Riskee/IMGP2808.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_Riskee/IMGP2912.JPG" afterPath="$PROJECT_DIR$/app/_assets/_Riskee/IMGP2912.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_Riskee/NeilGirling_PICT158001.jpg" afterPath="$PROJECT_DIR$/app/_assets/_Riskee/NeilGirling_PICT158001.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_Riskee/RB Progress.jpg" afterPath="$PROJECT_DIR$/app/_assets/_Riskee/RB Progress.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_Riskee/Riskee Ball Ribbons.JPG" afterPath="$PROJECT_DIR$/app/_assets/_Riskee/Riskee Ball Ribbons.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_Riskee/maxresdefault.jpg" afterPath="$PROJECT_DIR$/app/_assets/_Riskee/maxresdefault.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_Riskee/o-CHARCADE-900.jpg" afterPath="$PROJECT_DIR$/app/_assets/_Riskee/o-CHARCADE-900.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/1003801_10151676686851374_1406380351_n.jpg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/1003801_10151676686851374_1406380351_n.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/10378086_10154374475650468_587634213002311876_n.jpg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/10378086_10154374475650468_587634213002311876_n.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/10521531_10154430089540468_7703243858273000109_n.jpg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/10521531_10154430089540468_7703243858273000109_n.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/10540396_10152580590240767_2189963713102816914_n.jpg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/10540396_10152580590240767_2189963713102816914_n.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/1234231_10151856428082165_517997768_n.jpg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/1234231_10151856428082165_517997768_n.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/18405_10151796314420883_1367988276_n.jpg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/18405_10151796314420883_1367988276_n.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/36 bm.JPG" afterPath="$PROJECT_DIR$/app/_assets/_SSF/36 bm.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/557469_10151856423477165_1192292776_n.jpg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/557469_10151856423477165_1192292776_n.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/DSCF1414.JPG" afterPath="$PROJECT_DIR$/app/_assets/_SSF/DSCF1414.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/DSCN0798 CROP.jpg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/DSCN0798 CROP.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/DSCN0815 CROP.jpg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/DSCN0815 CROP.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/P1000302.JPG" afterPath="$PROJECT_DIR$/app/_assets/_SSF/P1000302.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/SSF BM 1.jpeg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/SSF BM 1.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/SSF Gloves 2012.psd" afterPath="$PROJECT_DIR$/app/_assets/_SSF/SSF Gloves 2012.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/SSF Tom Anderson Edited.jpg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/SSF Tom Anderson Edited.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/SSF by Jim Stone.jpg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/SSF by Jim Stone.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/SSF by maybeangel.jpg" afterPath="$PROJECT_DIR$/app/_assets/_SSF/SSF by maybeangel.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/b12 art superstreetfire 7155.JPG" afterPath="$PROJECT_DIR$/app/_assets/_SSF/b12 art superstreetfire 7155.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/_SSF/b12 art superstreetfire 7157.JPG" afterPath="$PROJECT_DIR$/app/_assets/_SSF/b12 art superstreetfire 7157.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/charnival.jpg" afterPath="$PROJECT_DIR$/app/_assets/charnival.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/faire hockey 1.jpg" afterPath="$PROJECT_DIR$/app/_assets/faire hockey 1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/faire hockey 2.jpg" afterPath="$PROJECT_DIR$/app/_assets/faire hockey 2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/faire hockey 3.jpg" afterPath="$PROJECT_DIR$/app/_assets/faire hockey 3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/faire hockey.jpg" afterPath="$PROJECT_DIR$/app/_assets/faire hockey.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/francis 1.jpg" afterPath="$PROJECT_DIR$/app/_assets/francis 1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/francis 2.jpg" afterPath="$PROJECT_DIR$/app/_assets/francis 2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/francis.jpg" afterPath="$PROJECT_DIR$/app/_assets/francis.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/pyrokinesis.jpg" afterPath="$PROJECT_DIR$/app/_assets/pyrokinesis.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/Archive.zip" afterPath="$PROJECT_DIR$/app/_assets/receipts/Archive.zip" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/beakerhead_valet.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/beakerhead_valet.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2760_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2760_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2761_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2761_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2762_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2762_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2763_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2763_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2764_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2764_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2765_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2765_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2766_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2766_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2767_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2767_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2768_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2768_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2769_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2769_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2770_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2770_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2771_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2771_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2772_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2772_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2773_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2773_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2774_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2774_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2776_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2776_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2777_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2777_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/receipts/thumb_IMG_2778_1024.jpg" afterPath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2778_1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/unnamed (1).jpg" afterPath="$PROJECT_DIR$/app/_assets/unnamed (1).jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/unnamed.jpg" afterPath="$PROJECT_DIR$/app/_assets/unnamed.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-char1.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-char1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-char2.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-char2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-char3.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-char3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-riskee1.JPG" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-riskee1.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-riskee2.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-riskee2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-riskee3.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-riskee3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-riskee4.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-riskee4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-riskee5.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-riskee5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-riskee6.JPG" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-riskee6.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-ssf1.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-ssf1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-ssf2.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-ssf2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-ssf3.JPG" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-ssf3.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-ssf4.JPG" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-ssf4.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-ssf5.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-ssf5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-gallery selects/gallery-ssf6.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-ssf6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-new site heroes/participate-hero.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-new site heroes/participate-hero.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-new site heroes/riskee1.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-new site heroes/riskee1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_assets/x-new site heroes/riskee2.jpg" afterPath="$PROJECT_DIR$/app/_assets/x-new site heroes/riskee2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/apple-touch-icon.png" afterPath="$PROJECT_DIR$/app/apple-touch-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/browserconfig.xml" afterPath="$PROJECT_DIR$/app/browserconfig.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/app/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/app/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/app/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/app/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/app/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/app/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/app/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/app/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/humans.txt" afterPath="$PROJECT_DIR$/app/humans.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/app/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/bootstrap.js" afterPath="$PROJECT_DIR$/app/js/vendor/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/bootstrap.min.js" afterPath="$PROJECT_DIR$/app/js/vendor/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/jquery-1.11.2.min.js" afterPath="$PROJECT_DIR$/app/js/vendor/jquery-1.11.2.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" afterPath="$PROJECT_DIR$/app/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/robots.txt" afterPath="$PROJECT_DIR$/app/robots.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tile-wide.png" afterPath="$PROJECT_DIR$/app/tile-wide.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tile.png" afterPath="$PROJECT_DIR$/app/tile.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/CRASH AND BURN - Bumper Car Flame Effect Rig.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Camp.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/FLAME EFFECT.PDF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/261.626 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/293.665 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/329.628 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/349.228 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/391.995 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/440 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/493.883 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/523.251 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic1_C4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic2_D4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic3_E4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic4_F4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic5_G4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic6_A4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic7_B4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic8_C5.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic99_E5.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Classic9_D5.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous - The holy see.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous1.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous1.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous10.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous10.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous2.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous2.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous3.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous3.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous4.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous5.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous5.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous6.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous6.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous7.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous7.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous725.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous8.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous8.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous9.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Sounds/Populous9.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK000.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK001.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK002.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK003.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK004.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK005.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK006.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK007.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK008.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/TRACK009.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/440L.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/440R.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK000.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK001.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK002.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK003.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK004.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK005.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK006.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK007.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK008.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK009.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK010.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/TRACK011.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/admxleft.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/admxmono.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/admxrght.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/admxster.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/admxswap.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/eq5.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/patches.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/patchesf.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/pcm.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/rtmidi.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Francis the Fantastic/Touchboard Backups/vs_plg_to_bin.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Logos/Charcade Logo.ai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Logos/Charcade T-shirt.ai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Logos/RB Logo Stacked.ai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Logos/RB Logo Stacked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Logos/S3FA Logo.ai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Logos/_DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Logos/logo_charcade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Logos/ssf_logo_160x140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Parts List.numbers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Parts List.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/REGULATOR.PDF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/bryan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/mike and trish.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_callum.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_carrie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_kate.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_kyle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_marc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_mike.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_saravee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_seth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/profile_trevyn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/S3FA Profile Pics/sarah.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/Updated Parts List.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_Carcade/Charcade Smokey High Res.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_Carcade/Charcade by Matt Brooks IMG_6759.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_Carcade/NeilGirling_PICT158029.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_Riskee/IMGP2808.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_Riskee/IMGP2912.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_Riskee/NeilGirling_PICT158001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_Riskee/RB Progress.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_Riskee/Riskee Ball Ribbons.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_Riskee/maxresdefault.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_Riskee/o-CHARCADE-900.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/1003801_10151676686851374_1406380351_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/10378086_10154374475650468_587634213002311876_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/10521531_10154430089540468_7703243858273000109_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/10540396_10152580590240767_2189963713102816914_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/1234231_10151856428082165_517997768_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/18405_10151796314420883_1367988276_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/36 bm.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/557469_10151856423477165_1192292776_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/DSCF1414.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/DSCN0798 CROP.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/DSCN0815 CROP.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/P1000302.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/SSF BM 1.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/SSF Gloves 2012.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/SSF Tom Anderson Edited.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/SSF by Jim Stone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/SSF by maybeangel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/b12 art superstreetfire 7155.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/_SSF/b12 art superstreetfire 7157.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/charnival.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/faire hockey 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/faire hockey 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/faire hockey 3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/faire hockey.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/francis 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/francis 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/francis.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/pyrokinesis.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/Archive.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/beakerhead_valet.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2760_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2761_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2762_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2763_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2764_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2765_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2766_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2767_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2768_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2769_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2770_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2771_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2772_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2773_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2774_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2776_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2777_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/receipts/thumb_IMG_2778_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/unnamed (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/unnamed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-char1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-char2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-char3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-riskee1.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-riskee2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-riskee3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-riskee4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-riskee5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-riskee6.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-ssf1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-ssf2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-ssf3.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-ssf4.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-ssf5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-gallery selects/gallery-ssf6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-new site heroes/participate-hero.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-new site heroes/riskee1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_assets/x-new site heroes/riskee2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/humans.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/js/vendor/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/js/vendor/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/js/vendor/jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/js/vendor/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/tile-wide.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/tile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/mime" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/connect/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/connect/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/connect/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/connect/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/connect/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/browser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/compat/buffer-concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/compat/callsite-tostring.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/compat/event-listener-count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/compat/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/destroy/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/destroy/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/destroy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/destroy/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ee-first/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ee-first/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ee-first/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ee-first/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-html/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-html/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-html/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-html/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/finalhandler/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/finalhandler/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/finalhandler/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/finalhandler/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/finalhandler/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/inherits.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/inherits_browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/build/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/build/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/mime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/types.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parseurl/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parseurl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parseurl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parseurl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parseurl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-static/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-static/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-static/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-static/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-static/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/setprototypeof/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/setprototypeof/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/setprototypeof/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/setprototypeof/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/codes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/utils-merge/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/utils-merge/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/utils-merge/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/utils-merge/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/utils-merge/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="s3fa.iws" />
@@ -236,30 +366,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4766949" vertical-offset="630" max-vertical-offset="1680">
+              <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -276,6 +386,8 @@
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -325,20 +437,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="s3fa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="s3fa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="s3fa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -451,26 +549,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4766949" vertical-offset="630" max-vertical-offset="1680">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
           <folding />
         </state>
       </provider>
