@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19847a6e-361d-4387-9b83-57f55d6e3c56" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/CRASH AND BURN - Bumper Car Flame Effect Rig.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Camp.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/FLAME EFFECT.PDF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/261.626 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/293.665 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/329.628 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/349.228 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/391.995 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/440 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/493.883 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/523.251 (mp3cut.net).mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Classic1_C4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Classic2_D4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Classic3_E4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Classic4_F4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Classic5_G4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Classic6_A4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Classic7_B4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Classic8_C5.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Classic99_E5.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Classic9_D5.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous - The holy see.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous1.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous1.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous10.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous10.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous2.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous2.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous3.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous3.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous4.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous4.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous5.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous5.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous6.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous6.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous7.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous7.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous725.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous8.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous8.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous9.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Sounds/Populous9.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/TRACK000.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/TRACK001.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/TRACK002.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/TRACK003.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/TRACK004.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/TRACK005.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/TRACK006.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/TRACK007.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/TRACK008.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/TRACK009.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/440L.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/440R.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/TRACK000.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/TRACK001.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/TRACK002.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/TRACK003.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/TRACK004.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/TRACK005.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/TRACK006.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/TRACK007.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/TRACK008.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/TRACK009.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/TRACK010.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/TRACK011.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/admxleft.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/admxmono.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/admxrght.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/admxster.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/admxswap.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/eq5.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/patches.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/patchesf.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/pcm.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/rtmidi.053" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Francis the Fantastic/Touchboard Backups/vs_plg_to_bin.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Logos/Charcade Logo.ai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Logos/Charcade T-shirt.ai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Logos/RB Logo Stacked.ai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Logos/RB Logo Stacked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Logos/S3FA Logo.ai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Logos/_DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Logos/logo_charcade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Logos/ssf_logo_160x140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Parts List.numbers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Parts List.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/REGULATOR.PDF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/S3FA Profile Pics/bryan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/S3FA Profile Pics/mike and trish.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/S3FA Profile Pics/profile_callum.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/S3FA Profile Pics/profile_carrie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/S3FA Profile Pics/profile_kate.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/S3FA Profile Pics/profile_kyle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/S3FA Profile Pics/profile_marc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/S3FA Profile Pics/profile_mike.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/S3FA Profile Pics/profile_saravee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/S3FA Profile Pics/profile_seth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/S3FA Profile Pics/profile_trevyn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/S3FA Profile Pics/sarah.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Updated Parts List.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_Carcade/Charcade Smokey High Res.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_Carcade/Charcade by Matt Brooks IMG_6759.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_Carcade/NeilGirling_PICT158029.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_Riskee/IMGP2808.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_Riskee/IMGP2912.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_Riskee/NeilGirling_PICT158001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_Riskee/RB Progress.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_Riskee/Riskee Ball Ribbons.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_Riskee/maxresdefault.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_Riskee/o-CHARCADE-900.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/1003801_10151676686851374_1406380351_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/10378086_10154374475650468_587634213002311876_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/10521531_10154430089540468_7703243858273000109_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/10540396_10152580590240767_2189963713102816914_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/1234231_10151856428082165_517997768_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/18405_10151796314420883_1367988276_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/36 bm.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/557469_10151856423477165_1192292776_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/DSCF1414.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/DSCN0798 CROP.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/DSCN0815 CROP.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/P1000302.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/SSF BM 1.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/SSF Gloves 2012.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/SSF Tom Anderson Edited.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/SSF by Jim Stone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/SSF by maybeangel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/b12 art superstreetfire 7155.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/_SSF/b12 art superstreetfire 7157.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/charnival.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/faire hockey 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/faire hockey 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/faire hockey 3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/faire hockey.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/francis 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/francis 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/francis.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/pyrokinesis.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/Archive.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/beakerhead_valet.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2760_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2761_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2762_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2763_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2764_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2765_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2766_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2767_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2768_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2769_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2770_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2771_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2772_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2773_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2774_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2776_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2777_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/receipts/thumb_IMG_2778_1024.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/unnamed (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/unnamed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-char1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-char2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-char3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-riskee1.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-riskee2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-riskee3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-riskee4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-riskee5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-riskee6.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-ssf1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-ssf2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-ssf3.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-ssf4.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-ssf5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-gallery selects/gallery-ssf6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-new site heroes/participate-hero.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-new site heroes/riskee1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/x-new site heroes/riskee2.jpg" afterPath="" />
+    </list>
+    <ignored path="s3fa.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="s3fa" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s3fa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s3fa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s3fa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19847a6e-361d-4387-9b83-57f55d6e3c56" name="Default" comment="" />
+      <created>1468075207285</created>
+      <option name="number" value="Default" />
+      <updated>1468075207285</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
