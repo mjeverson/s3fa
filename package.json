@@ -1,0 +1,19 @@
+{
+  "name": "s3fa",
+  "version": "1.0.0",
+  "description": "This is the code base for the S3FA main website. Enjoy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjeverson/s3fa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjeverson/s3fa/issues"
+  },
+  "homepage": "https://github.com/mjeverson/s3fa#readme"
+}
