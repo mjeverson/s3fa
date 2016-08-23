@@ -3,15 +3,49 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+/* variables */
+$dark1: #494950;
+$dark2: #61616b;
+$dark3: #797986;
+$dark4: #94949e;
+$dark5: #afafb6;
+$dark6: #c9c9cf;
+
+/* global */
 body {
    padding-top: 50px;
    padding-bottom: 20px;
+   color: #fff;
 }
 
 /* Home page */
-.jumbotron {
-   background: url('/_assets/_charcade/charcade.jpg') no-repeat;
-   background-size: cover;
+.hero {
+  height:75vh;
+  background: url('/_assets/_charcade/charcade_hero_overhead.jpg') no-repeat;
+  background-size:cover;
+}
+
+.text-only {
+  min-height: 25vh;
+  background-color: $dark1;
+  display: flex;
+  align-items: center;
+}
+
+/* Images */
+.parallax {
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  &.ssf-1 {  background-image: url('/_assets/_ssf/ssf_hero_battle.jpg');  }
+  &.ssf-2 {  background-image: url('/_assets/_ssf/ssf_hero_behind.jpg');  }
+  &.ssf-3 {  background-image: url('/_assets/_ssf/ssf_hero_flames.jpg');  }
+  &.rb-1 {  background-image: url('/_assets/_riskee/rb_hero_round.jpg');  }
+  &.rb-2 {  background-image: url('/_assets/_riskee/rb_hero_angle.jpg');  }
+  &.rb-3 {  background-image: url('/_assets/_riskee/rb_hero_3.jpg');  }
+
 }
 
 
